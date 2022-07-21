@@ -1,0 +1,23 @@
+{
+  "name": "knowledge-base-test",
+  "version": "1.0.0",
+  "description": "knowledge based system",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelkungu/kbs.git"
+  },
+  "keywords": [
+    "expert",
+    "kbs"
+  ],
+  "author": "samuelkungu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelkungu/kbs/issues"
+  },
+  "homepage": "https://github.com/samuelkungu/kbs#readme"
+}
